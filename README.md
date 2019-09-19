@@ -27,3 +27,13 @@ modification, are permitted provided that the following conditions are met:
     3) Neither the name of scikit-fuzzy (a.k.a. skfuzzy) nor the names of its
        contributors may be used to endorse or promote products derived from
        this software without specific prior written permission.
+ 
+ ## Referencias
+ 
+ El material fue preparado basándome principalmente en las siguientes referencias:
+ 
+ 1. SciKit-Fuzzy (2012) scikit-fuzzy is a fuzzy logic toolkit for SciPy. [http://pythonhosted.org/scikit-fuzzy]
+ 2. Rosa Rodriguez, Luis Martinez (2010). Un nuevo modelo para Procesos de Computación con Palabras en Toma de Decisión Lingüística. Escuela Politécnica Superior de Jaén. Departamento de Informática. [https://sinbad2.ujaen.es/sites/default/files/publications/DEA_RosaRodriguez.pdf](PDF)
+ 3. R. Torres, M.A. Solis, R. Salas and A.F. Bariviera. Multi-period decision making applied to cryptocurrency investment scenario. Submitted to the International Journal of Forecasting.
+ 
+ 
