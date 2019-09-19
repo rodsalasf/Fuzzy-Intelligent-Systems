@@ -6,8 +6,8 @@ Para la realización de las actividades se utilizó el toolbox de SciKit-Fuzzy @
 
 Para instalar el toolbox de SciKit-Fuzzy se utiliza PyPi usando un terminal de comandos:
 
-'''
+```
 $ pip install -U scikit-fuzzy
-'''
+
 
 
